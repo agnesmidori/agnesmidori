@@ -3,7 +3,7 @@
 <p align="center">My name is Agnes (she/her), I'm a web developer student.</p>
 <br />
 <br />
-<p>:brazil: I'm from Brazil but I lived in Japan for almost 12 years.</p>
+<p>:brazil: I'm from Brazil but I live in Japan.</p>
 <p>💻 Web development is my passion.</p>
 <p>✨ Self motivated.</p>
 <br />
