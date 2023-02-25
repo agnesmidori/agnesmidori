@@ -1,8 +1,5 @@
 <h1 align="center"> Hello World! :wave:</h1>
 
-<p align="center">My name is Agnes (she/her), I'm a web developer lover.</p>
-<br />
-<br />
 <p>:brazil: I'm from Brazil but I live in Japan.</p>
 <p>💻 Web development is my passion.</p>
 <p>✨ Self motivated.</p>
